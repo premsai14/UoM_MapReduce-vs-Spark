@@ -1,0 +1,65 @@
+Hive Session ID = 7bf80c30-e4a2-4971-8b71-fde656944d98
+
+Logging initialized using configuration in file:/etc/hive/conf.dist/hive-log4j2.properties Async: false
+OK
+Time taken: 0.454 seconds
+OK
+Time taken: 0.262 seconds
+Query ID = hadoop_20240303144654_3af1bfc9-5b1d-4111-8011-f17b42287bb4
+Total jobs = 1
+Launching Job 1 out of 1
+Status: Running (Executing on YARN cluster with App id application_1709475165903_0007)
+
+Map 1: -/-	Reducer 2: 0/2	Reducer 3: 0/1	
+Map 1: 0/1	Reducer 2: 0/2	Reducer 3: 0/1	
+Map 1: 0/1	Reducer 2: 0/2	Reducer 3: 0/1	
+Map 1: 0(+1)/1	Reducer 2: 0/2	Reducer 3: 0/1	
+Map 1: 1/1	Reducer 2: 0(+1)/2	Reducer 3: 0/1	
+Map 1: 1/1	Reducer 2: 2/2	Reducer 3: 0(+1)/1	
+Map 1: 1/1	Reducer 2: 2/2	Reducer 3: 1/1	
+OK
+Time taken: 16.616 seconds
+Query ID = hadoop_20240303144711_7d741bbf-d382-4e5c-ad33-5873d4de5fbf
+Total jobs = 1
+Launching Job 1 out of 1
+Status: Running (Executing on YARN cluster with App id application_1709475165903_0007)
+
+Map 1: -/-	Reducer 2: 0/2	Reducer 3: 0/1	
+Map 1: 0/1	Reducer 2: 0/2	Reducer 3: 0/1	
+Map 1: 0(+1)/1	Reducer 2: 0/2	Reducer 3: 0/1	
+Map 1: 1/1	Reducer 2: 2/2	Reducer 3: 1/1	
+OK
+Time taken: 2.078 seconds
+Query ID = hadoop_20240303144713_34787e2d-e991-48fb-9754-6e3f78d32fc7
+Total jobs = 1
+Launching Job 1 out of 1
+Status: Running (Executing on YARN cluster with App id application_1709475165903_0007)
+
+Map 1: -/-	Reducer 2: 0/2	Reducer 3: 0/1	
+Map 1: 0/1	Reducer 2: 0/2	Reducer 3: 0/1	
+Map 1: 0(+1)/1	Reducer 2: 0/2	Reducer 3: 0/1	
+Map 1: 1/1	Reducer 2: 2/2	Reducer 3: 1/1	
+OK
+Time taken: 1.999 seconds
+Query ID = hadoop_20240303144715_2427a704-2d77-415d-ac93-0046299de2a6
+Total jobs = 1
+Launching Job 1 out of 1
+Status: Running (Executing on YARN cluster with App id application_1709475165903_0007)
+
+Map 1: -/-	Reducer 2: 0/2	Reducer 3: 0/1	
+Map 1: 0/1	Reducer 2: 0/2	Reducer 3: 0/1	
+Map 1: 1/1	Reducer 2: 0/2	Reducer 3: 0/1	
+Map 1: 1/1	Reducer 2: 2/2	Reducer 3: 1/1	
+OK
+Time taken: 1.767 seconds
+Query ID = hadoop_20240303144717_98a8b883-e120-4748-b55e-9d70a2d7e19a
+Total jobs = 1
+Launching Job 1 out of 1
+Status: Running (Executing on YARN cluster with App id application_1709475165903_0007)
+
+Map 1: -/-	Reducer 2: 0/2	Reducer 3: 0/1	
+Map 1: 0/1	Reducer 2: 0/2	Reducer 3: 0/1	
+Map 1: 1/1	Reducer 2: 2/2	Reducer 3: 1/1	
+OK
+Time taken: 1.94 seconds
+Command exiting with ret '0'
