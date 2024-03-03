@@ -1,0 +1,6 @@
+query_name,execution_time
+carrier_delay,0.13405108
+nas_delay,0.019308567
+weather_delay,0.022681236
+late_aircraft_delay,0.0154492855
+security_delay,0.01424098
